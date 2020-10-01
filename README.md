@@ -1,10 +1,8 @@
-# Jedha Data Science Bootcamp - Fullstack - Semaine 4
+# Fraudulent activities
 
-_Session dsmft-paris-08_
+> Jedha Data Science Bootcamp - Fullstack - week 4
 
-# Projet
-
-## Fraudulent Activities
+> _Session dsmft-paris-08_
 
 ### OBJECTIF
 
